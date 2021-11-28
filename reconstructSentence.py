@@ -4,6 +4,8 @@
 # arg1 = file1.txt arg2 = file2.txt
 # This program reads 2 files and and concates the file contents
 # into a ordered sentence
+#
+# Written by Evan
 
 import sys
 
