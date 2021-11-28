@@ -2,7 +2,8 @@
 #
 # Takes 2 arguments that are filenames
 # arg1 = file1.txt arg2 = file2.txt
-# This program reads 2 files and and concates 
+# This program reads 2 files and and concates the file contents
+# into a ordered sentence
 
 import sys
 
